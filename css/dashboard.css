@@ -25,8 +25,9 @@ h2
 .button 
 {
 	width: 150px;
-	background-color: #2c3e50;
+	background-color: #2d4052;
 	color: black;
+	margin: 0.5rem 0 0.5rem;
 }
 .button:hover 
 {
@@ -43,4 +44,11 @@ hr
 {
 	width: 100%;
 	text-align: center;
+}
+.topic 
+{
+	background-color: #2d4052;
+	-moz-box-shadow:    inset 0 0 10px #000000;
+	-webkit-box-shadow: inset 0 0 10px #000000;
+	box-shadow: 
 }
